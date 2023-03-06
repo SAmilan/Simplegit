@@ -1,0 +1,1 @@
+This script is for the get sprites, and text data from any given url

@@ -1,0 +1,1 @@
+This is the sample script if we want the user to modify the parameter of the game then they can easily modify using json.

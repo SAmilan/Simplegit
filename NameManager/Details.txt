@@ -1,0 +1,1 @@
+Its the Script that we had used in one of our project to gave the name of the player using command line.

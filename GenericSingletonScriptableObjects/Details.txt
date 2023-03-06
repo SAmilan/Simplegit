@@ -1,0 +1,1 @@
+This is the generic script that we use to make any scriptable object as singleton
