@@ -1,0 +1,1 @@
+Its the NPC script that is used for detecting the player whne the player comes in the area of NPC
