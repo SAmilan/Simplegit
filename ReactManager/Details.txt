@@ -1,0 +1,1 @@
+This script is used as a react and unity bridge so that we can call the react functions from the unity.
